@@ -1,7 +1,5 @@
-# H5P Standalone hosted on GitHub Pages example site
+# H5P Standalone para atividades de ensino de Astronomia
 
-This repository contains an example H5P standalone static website hosted on GitHub Pages.
+Este repositório é usado para disponibilizar atividades H5P voltadas para ensino de Astronomia.
 
-[How to Use H5P Standalone tutorial](https://www.animmouse.com/p/how-to-use-h5p-standalone/)
-
-.nojekyll file in order to bypass Jekyll processing on GitHub Pages.
+[Página das atividades](https://jocoteles.github.io/h5p-astronomia/)
